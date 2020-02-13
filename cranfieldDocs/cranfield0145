@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO>
+145
+</DOCNO>
+<TITLE>
+skin friction in the laminar boundary layer in compressible
+flow .
+</TITLE>
+<AUTHOR>
+young,a.d.
+</AUTHOR>
+<BIBLIO>
+aero.quart. 1, 1949, 137.
+</BIBLIO>
+<TEXT>
+  from an analysis of the work of
+crocco and others, semi-empirical formulae
+are derived for the skin friction on a
+flat plate at zero incidence with a laminar
+boundary layer .  these formulae are
+for the general case of heat transfer, and
+when there is no heat transfer .
+  the problem of heat transfer and
+the effect of radiation are discussed in the
+light of these formulae .  the second
+formula is then utilised in the development of
+an approximate method for solving the
+momentum equation of the boundary layer
+on a cylinder without heat transfer .
+the method indicates that with increase of
+mach number there is a marked forward
+movement of separation from a flat plate
+in the presence of a constant adverse velocity gradient .
+</TEXT>
+</DOC>

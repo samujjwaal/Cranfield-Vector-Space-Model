@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO>
+240
+</DOCNO>
+<TITLE>
+a theoretical analysis of heat transfer in regions of separated flow
+</TITLE>
+<AUTHOR>
+dean r. chapman
+</AUTHOR>
+<BIBLIO>
+naca technote 3792
+</BIBLIO>
+<TEXT>
+    the flow field analyzed consists of a thin, constant pressure
+viscous mixing layer separated from a solid surface by an enclosed
+region of low-velocity air (/dead air/) . the law of conservation of
+energy is employed to relate calculated conditions within the
+separated mixing layer to the rate of heat transfer at the solid surface
+. this physical speed is applied to laminar separations in
+compressible flow for various prandtl numbers, including consideration
+of the case where air is injected into the separated region  .
+application to turbulent separations is made for a prandtl number of
+unity in low-speed flow without injection .
+all calculations are for the case of zero boundary-layer thickness at
+the position of separation .
+     for laminar separations the differential equations for viscous flow
+at arbitrary mach number are solved for the enthalpy and velocity
+profiles within the thin layer where mixing with dead air takes place .
+results are presented in tabular form for prandtl numbers between 0.1
+and 10  . the rate of heat transfer to a separated laminar region in air
+laminar boundary layer having the same constant pressure . injection
+of gas into the separated region is calculated to have a powerful effect
+in reducing the rate of heat transfn  to the wall  . it is calculated
+that a moderate quantity of gas injection reduces to zero the heat
+transfer in a laminar separated flow .
+</TEXT>
+</DOC>

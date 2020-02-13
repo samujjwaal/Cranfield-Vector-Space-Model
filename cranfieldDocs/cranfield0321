@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO>
+321
+</DOCNO>
+<TITLE>
+improved numerical solution of the blasius problem with three-point
+boundary conditions .
+</TITLE>
+<AUTHOR>
+christian, w. j.
+</AUTHOR>
+<BIBLIO>
+j. aero. sc. v. 28, november, 1961 .
+</BIBLIO>
+<TEXT>
+the blasius equation describes the velocity distribution resulting from
+laminar, constant-pressure mixing of a stationary fluid layer and a
+moving stream . in connection with a numerical procedure for the univac
+based on analytic continuation of the function f' . high-speed computers
+ now make it feasible to use analytic continuation for numerical
+integration of single-point boundary-value problems such that, within
+the limits of taylor's expansion, truncation error may be made
+arbitrarily small . a brief description of the application of the
+routine is given .
+</TEXT>
+</DOC>

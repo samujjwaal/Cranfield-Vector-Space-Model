@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO>
+698
+</DOCNO>
+<TITLE>
+the unsteady lift of a wing of finite aspect ratio .
+</TITLE>
+<AUTHOR>
+jones, r.t.
+</AUTHOR>
+<BIBLIO>
+1940, naca rep. 681 .
+</BIBLIO>
+<TEXT>
+unsteady-lift functions for wings of finite aspect ratio have been calculated
+by correcting the aerodynamic inertia and the angle of attack of
+ the infinite wing . the calculations are based on the operational
+method .
+the starting lift of the finite wing is found to be only slightly less
+than that of the infinite wing,. whereas the final lift may be considerably
+less . the theory indicates that the initial distribution of
+lift is similar to the final distribution .
+curves showing the variation of lift after a sudden unit change in angle
+ of attack, during penetration of a sharpedge gust, and during a continuous
+oscillation are given . operational equivalents of these
+functions have been devised to facilitate the calculation of lift under
+various conditions of motion . as an application of these formulas, the
+vertical acceleration of a loaded wing caused by penetrating a gust has
+been calculated .
+</TEXT>
+</DOC>

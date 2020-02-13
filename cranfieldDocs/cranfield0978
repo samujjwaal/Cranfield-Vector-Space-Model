@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO>
+978
+</DOCNO>
+<TITLE>
+temperature profiles inafinite solid with moving boundary .
+</TITLE>
+<AUTHOR>
+dewey, c.f., schlesinger, s.i. and sashkin, l.
+</AUTHOR>
+<BIBLIO>
+j. aero. sc. v. 27, 1960 .
+</BIBLIO>
+<TEXT>
+a numerical solution is presented to the transient heat conduction equation
+for a cylinder of finite thickness with one moving boundary .
+the implicit method of solution is developed with conductivity as an
+arbitrary function of temperature . application is made to a sample case
+ of re-entry heating encountered by aerodynamic bodies, with erosion by
+sublimation and combustion occurring at the body surface .
+</TEXT>
+</DOC>

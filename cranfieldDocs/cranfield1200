@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO>
+1200
+</DOCNO>
+<TITLE>
+hypersonic viscous flow over a sweat-cooled flat plate .
+</TITLE>
+<AUTHOR>
+tien,c.l. and gee,c.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. 1963, 159.
+</BIBLIO>
+<TEXT>
+  this paper presents a theoretical analysis of the hypersonic
+viscous flow over a sweat-cooled flat plate .  the physical system
+under consideration is the hypersonic laminar boundary
+layer over a porous flat plate with homogeneous, normal injection
+of a coolant into the external stream .  a heat balance at
+the porous surface is made between the heat transferred to the
+surface and the heat absorbed by the coolant .  the existence
+of similar solutions requires a nonuniform distribution of coolant
+injection .  the method of solution consists of the integration of
+three simultaneous first-order equations, the momentum and the
+energy integral equations in the boundary layer, and the tangentwedge
+approximation in the inviscid layer .  first-order asymptotic
+formulas are given in both the strong and the weak pressure
+interaction regions for the induced surface pressure, the skinfriction
+coefficient, and the nusselt number .  numerical results
+for three specific cases are presented and discussed .
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+what investigations have been made of the wave system created by a static pressure distribution over a liquid surface .
+has anyone investigated the effect of shock generated vorticity on heat transfer to a blunt body .
+what is the heat transfer to a blunt body in the absence of vorticity .
+what are the general effects on flow fields when the reynolds number is small .
+find a calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time .
+papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) .
+has anyone investigated the shear buckling of stiffened plates .
+papers on shear buckling of unstiffened rectangular plates under shear .
+in practice, how close to reality are the assumptions that the flow in a hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium .
+what design factors can be used to control lift-drag ratios at mach numbers above 5 .

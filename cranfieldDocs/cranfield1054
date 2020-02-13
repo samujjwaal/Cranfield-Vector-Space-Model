@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO>
+1054
+</DOCNO>
+<TITLE>
+iterative solutions for the non-linear bending of circular
+plates .
+</TITLE>
+<AUTHOR>
+keller,h.b. and reiss,e.l.
+</AUTHOR>
+<BIBLIO>
+comm. on pure and app. math. 11, 1958, 273.
+</BIBLIO>
+<TEXT>
+  the authors study non-linear von karman equations
+for bending of a thin circular plate under uniform normal
+pressure .  discussion is mainly concerned with plates
+clamped at the edges and with zero radial displacement,
+but analysis is valid for other edge conditions .  solution is
+by an iterative procedure whose convergence properties
+are studied by means of integral equations .  method is
+then applied to finite difference formulation of the differential
+equations in order to obtain numerical solutions .
+numerical results are compared with previous work by
+other authors and the advantages of the present method
+are indicated .
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO>
+771
+</DOCNO>
+<TITLE>
+on the flow of a compressible fluid past a sphere .
+</TITLE>
+<AUTHOR>
+tamada,k.
+</AUTHOR>
+<BIBLIO>
+proc. physico-math. soc japan, 21, 1939, 743.
+</BIBLIO>
+<TEXT>
+  it was shown by raleigh (philos. mag. 32, 1 (1916))
+that the velocity potential for the subsonic flow of a compressible
+fluid past a sphere can be expressed as a power
+series in terms of mach's number m (which is the ratio of
+the undisturbed velocity u, divided by the velocity of sound
+for the undisturbed flow) .  the equation in question is
+and boundary conditions are prescribed for
+raleigh himself computed the first two terms of this series,.
+the author finds the third term .  he gives some graphs
+showing numerical differences between raleigh's and his
+approximation .
+</TEXT>
+</DOC>

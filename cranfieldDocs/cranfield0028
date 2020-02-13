@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO>
+28
+</DOCNO>
+<TITLE>
+a note on the explosion solution of sedov with application
+to the newtonian theory of unsteady hypersonic flow .
+</TITLE>
+<AUTHOR>
+freeman,n.c.
+</AUTHOR>
+<BIBLIO>
+j. ae. scs. 27, 1960, 77.
+</BIBLIO>
+<TEXT>
+an exact analytical solution of the equations of inviscid compressible
+unsteady flow has been given by sedov (reference
+to the solution may be made through hayes and probstein) .
+this solution is the similarity solution for a constant-energy point
+explosion .  in view of the recent work on problems of hypersonic
+flow in the limiting form of the ratio of specific heats near 1
+solution in this limit and inquire what form such a solution would
+take .  einbinder, in a recent note, has examined the solution for
+various but does not mention the interesting case of .
+it may be shown that the convergence to the limit is nonuniform
+over the flow field .  it is also not difficult to show that the nonuniform
+behavior exhibited here is that which one would expect
+from the newtonian formulation as derived in reference 3 .
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO>
+1193
+</DOCNO>
+<TITLE>
+some exact solutions for cavitating curvilinear bodies .
+</TITLE>
+<AUTHOR>
+ehrich,f.f.
+</AUTHOR>
+<BIBLIO>
+aiaa jnl. 1, 1963, 675.
+</BIBLIO>
+<TEXT>
+  a special case of cavitating flow solutions is
+postulated and transformed to a semi-infinite
+plane .  the complete, exact solution then is
+synthesized by superposition of singularities .
+the solution is relevant to a general, two-parameter
+family of curvilinear bodies .  the parameters
+are the flow angles at the two points of flow
+separation .  the body reduces, in the special
+case, to the rayleigh solution for a flat plate .
+the equations of the cavity boundaries are
+given in explicit form .  the body form and the
+stagnation streamline are given as the locus of
+the roots of a cubic equation .  local static
+pressures and, hence, lift and drag, also may be
+calculated .  the generated solutions constitute
+a technique involving simple computation
+for exact solutions of a special family of cavitating
+curvilinear bodies at finite angles of attack .
+</TEXT>
+</DOC>
