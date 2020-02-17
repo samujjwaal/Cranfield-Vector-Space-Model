@@ -1,13 +1,1 @@
-
-flow about an unsteadily rotating disc .
-
-  an analysis is made of the unsteady laminar flow about a
-rotating disc whose angular velocity may vary with time .
-the deviation of the actual instantaneous state of the flow from
-the quasi-steady state (instantaneous steady state) is determined
-.  from this, a simplified criterion, is derived
-to define the conditions under which the flow can be considered
-as quasi-steady for the purposes of shear stress and
-torque computations .  since a turbulent flow responds more
-rapidly than a laminar flow, the quasi-steady criterion found here
-should also serve for the turbulent situation .
+flow unsteadili rotat disc analysi made unsteadi laminar flow rotat disc whose angular veloc may vari time deviat actual instantan state flow quasi steadi state instantan steadi state determin simplifi criterion deriv defin condit flow consid quasi steadi purpos shear stress torqu comput sinc turbul flow respond rapidli laminar flow quasi steadi criterion found also serv turbul situat

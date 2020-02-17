@@ -1,17 +1,1 @@
-
-supersonic flow around blunt bodies .
-
-the newtonian theory of impact has been shown to be
-useful for pressure calculations on the forward facing part
-of bodies moving at high speed .  it is now a familiar practice
-to use this information to calculate nonviscous velocities at the
-wall and then to estimate rates of heat transfer .  this procedure
-is perhaps open to question,. heat-transfer rates depend
-on velocity gradients which are not given by the newtonian
-analysis .  nor can one obtain information on boundary-layer
-stability or all the body stability derivatives .  it seems, therefore,
-inevitable that, as design proceeds with these hypersonic
-missiles, there will be a greater need for more accurate aerodynamic
-theories either to predict what will happen in unfamiliar
-flight conditions or to effect an extrapolation from a known test
-result to the design condition .
+superson flow around blunt bodi newtonian theori impact shown use pressur calcul forward face part bodi move high speed familiar practic use inform calcul nonvisc veloc wall estim rate heat transfer procedur perhap open question heat transfer rate depend veloc gradient given newtonian analysi one obtain inform boundari layer stabil bodi stabil deriv seem therefor inevit design proce hyperson missil greater need accur aerodynam theori either predict happen unfamiliar flight condit effect extrapol known test result design condit

@@ -1,18 +1,1 @@
-
-inviscid hypersonic flow past blunt bodies .
-
-  two methods are shown for the calculation of the flow field
-between a blunt body and the shock associated with it for the
-case of hypersonic flow .  real gas effects are included .  the
-solutions consider only symmetric flows--that is, symmetric
-bodies at zero incidence .
-  one method consists in tracing successive stream tubes around
-the body and leads to iterations on the initially assumed position
-of the shock .  the second is an integral method closely analogous
-to the karman-pohlhausen procedure for boundary layers .  a
-distinction is made between round-nosed and flat-nosed bodies,
-and both cases are discussed .
-  a specific example corresponding to a re-entry missile situation
-is calculated,. the two methods agree within a few per cent .
-comparison is also made with other known solutions in the
-stagnation region .
+inviscid hyperson flow past blunt bodi two method shown calcul flow field blunt bodi shock associ case hyperson flow real ga effect includ solut consid symmetr flow symmetr bodi zero incid one method consist trace success stream tube around bodi lead iter initi assum posit shock second integr method close analog karman pohlhausen procedur boundari layer distinct made round nose flat nose bodi case discuss specif exampl correspond entri missil situat calcul two method agre within per cent comparison also made known solut stagnat region

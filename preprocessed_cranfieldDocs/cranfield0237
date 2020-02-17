@@ -1,18 +1,1 @@
-
-a compressor routine test code .
-
-the routine testing of aircraft-type compressors.dash in the main,
-axial-flow, multi-stage compressors.dash requires a compromise between
-research accuracy and the practical considerations .  this test code
-is the outcome of a survey of compressor testing techniques and
-instrumentation, initiated and subsequently discussed and endorsed
-by the aerodynamics sub-committee of the gas turbine collaboration
-committee .
-the code aims at defining methods of measurement and weighting whereby
-compressor performance can be obtained sufficiently accurately
-for a realistic and direct comparison to be made between one compressor
-and another .  the measurement of a quantity at a point in the fluid
-flow, and the averaging and weighting of such measurements have been
-treated separately as far as is possible .
-the recommendations are given in the main text, whilst additional
-discussion on these is put into the appendices .
+compressor routin test code routin test aircraft type compressor dash main axial flow multi stage compressor dash requir compromis research accuraci practic consider test code outcom survey compressor test techniqu instrument initi subsequ discuss endors aerodynam sub committe ga turbin collabor committe code aim defin method measur weight wherebi compressor perform obtain suffici accur realist direct comparison made one compressor anoth measur quantiti point fluid flow averag weight measur treat separ far possibl recommend given main whilst addit discuss put appendic

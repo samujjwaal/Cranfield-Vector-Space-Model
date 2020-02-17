@@ -1,15 +1,1 @@
-
-supersonic shear flow past an airfoil between two parallel
-walls .
-
-  the supersonic flow with assigned mach number gradient in
-the span direction past a straight wing between two parallel
-walls is studied using the small-disturbance theory .  the governing
-equation for the disturbance pressure on the airfoil, together
-with the boundary conditions on the airfoil and at the walls, is
-solved by the method of separation of variables .  upon separation
-the problem is reduced to a sturm-liouville eigenvalue
-problem and to the solution of the telegraph equation .
-  as an application, a certain mach number profile is selected
-and the resulting pressure distribution on a parabolic arc airfoil
-is computed .
+superson shear flow past airfoil two parallel wall superson flow assign mach number gradient span direct past straight wing two parallel wall studi use small disturb theori govern equat disturb pressur airfoil togeth boundari condit airfoil wall solv method separ variabl upon separ problem reduc sturm liouvil eigenvalu problem solut telegraph equat applic certain mach number profil select result pressur distribut parabol arc airfoil comput

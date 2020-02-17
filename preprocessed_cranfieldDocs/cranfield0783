@@ -1,16 +1,1 @@
-
-a method for calculating the subsonic steady-state loading on an airplane
-with a wing of arbitrary planform and stiffness .
-
-a method for computing the steady-state span load distribution on an
-elastic airplane wing for specified airplane weights and load factors is
- given . the method is based on a modification of the weissinger lmethod
-and applies at subcritical mach numbers . it includes the effects
- of external stores and fuselage on the spanwise loading . modifications
-are outlined for treating tail-boom and tailless airplane configurations
-and for calculating the divergence dynamic pressure of a
-swept wing with a large external store . a method is also outlined for
-reducing wind-tunnel data to obtain effective aerodynamic coefficients
-which are free of model flexibility effects . the effects of mach number
- can readily be evaluated from the aerodynamic coefficients thus obtained
-.
+method calcul subson steadi state load airplan wing arbitrari planform stiff method comput steadi state span load distribut elast airplan wing specifi airplan weight load factor given method base modif weissing lmethod appli subcrit mach number includ effect extern store fuselag spanwis load modif outlin treat tail boom tailless airplan configur calcul diverg dynam pressur swept wing larg extern store method also outlin reduc wind tunnel data obtain effect aerodynam coeffici free model flexibl effect effect mach number readili evalu aerodynam coeffici thu obtain

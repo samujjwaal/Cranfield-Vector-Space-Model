@@ -1,16 +1,1 @@
-
-some panel-flutter studies using piston theory .
-
-  the use of piston theory was recently advocated for supersonic
-aeroelastic analyses, including the problem of panel flutter,
-and this has stimulated the investigation reported here .
-  linear piston theory is mainly considered, but some effects of
-introducing higher order terms are discussed .
-  flutter of rectangular simply supported panels and of elliptically
-shaped clamped-edge panels is considered, and some justification
-is provided for the use of /static/ aerodynamic forces
-and the neglect of aerodynamic damping .  hence, it is concluded
-that ackeret loading gives more exact results than piston theory .
-  solution of the flutter equations is made by applying galerkin's
-method to a rayleigh-type analysis using assumed modes of
-deformation .
+panel flutter studi use piston theori use piston theori recent advoc superson aeroelast analys includ problem panel flutter stimul investig report linear piston theori mainli consid effect introduc higher order term discuss flutter rectangular simpli support panel ellipt shape clamp edg panel consid justif provid use static aerodynam forc neglect aerodynam damp henc conclud ackeret load give exact result piston theori solut flutter equat made appli galerkin method rayleigh type analysi use assum mode deform

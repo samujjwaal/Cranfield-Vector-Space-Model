@@ -1,17 +1,1 @@
-
-supersonic inlet dynamics .
-
-  an approximation of the differential equation for compressible
-duct flow is presented .  the equation is linear and of the second
-order .  the duct transfer function and response characteristics
-are obtained by applying small-perturbation theory to the differential
-equation .  the resulting equations describe duct
-natural frequency as a function of duct areas and volumes, and
-damping ratio as a function of the slope of the steady-state mass
-flow, pressure-recovery curve .
-  the calcualted response agrees, to a first approximation, with
-measured response as obtained from tests of a fixed-geometry,
-sugar-scoop inlet model with hypass for matching airflows .  testing
-was done in the 10 x 10 and 8 x 6 ft. supersonic tunnels
-at nasa lewis flight propulsion laboratory .  further agreement
-was obtained during flight tests of the f8u-3 airplane .
+superson inlet dynam approxim differenti equat compress duct flow present equat linear second order duct transfer function respons characterist obtain appli small perturb theori differenti equat result equat describ duct natur frequenc function duct area volum damp ratio function slope steadi state mass flow pressur recoveri curv calcualt respons agre first approxim measur respons obtain test fix geometri sugar scoop inlet model hypass match airflow test done x x ft superson tunnel nasa lewi flight propuls laboratori agreement obtain flight test f u airplan

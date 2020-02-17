@@ -1,16 +1,1 @@
-
-the laminar boundary layer equation: a method of solution
-by means of an automatic computer .
-
-  a method, very suitable for use with an automatic computer,
-of solving the hartree-womersley approximation to the
-incompressible boundary-layer equation is developed .
-it is based on an iterative process and the choleski method
-of solving a simultaneous set of linear algebraic equations .
-the programming of this method for an automatic computer is
-discussed .  tables of a solution of the boundary-layer
-equation in a region upstream of the separation point are
-given .  in the upstream neighbourhood of separation
-this solution is compared with goldstein's
-asymptotic solution and
-the agreement is good .
+laminar boundari layer equat method solut mean automat comput method suitabl use automat comput solv hartre womersley approxim incompress boundari layer equat develop base iter process choleski method solv simultan set linear algebra equat program method automat comput discuss tabl solut boundari layer equat region upstream separ point given upstream neighbourhood separ solut compar goldstein asymptot solut agreement good

@@ -1,9 +1,1 @@
-
-temperature profiles inafinite solid with moving boundary .
-
-a numerical solution is presented to the transient heat conduction equation
-for a cylinder of finite thickness with one moving boundary .
-the implicit method of solution is developed with conductivity as an
-arbitrary function of temperature . application is made to a sample case
- of re-entry heating encountered by aerodynamic bodies, with erosion by
-sublimation and combustion occurring at the body surface .
+temperatur profil inafinit solid move boundari numer solut present transient heat conduct equat cylind finit thick one move boundari implicit method solut develop conduct arbitrari function temperatur applic made sampl case entri heat encount aerodynam bodi eros sublim combust occur bodi surfac

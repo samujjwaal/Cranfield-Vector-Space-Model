@@ -1,16 +1,1 @@
-
-non-linear analysis of heated, cambered wings by the matrix force
-method .
-
-various extensions of the matrix force method for complex structure
-analysis are presented and illustrated with the objective of expanding
-its range to handle the problems likely to be encountered in advanced
-vehicle wing design .  methods are covered in detail for (1) determining
-the change in flexibility that occurs when thermal stresses are present,
-and also how large these stresses must be to cause buckling, (2)
-including the non-linear effect of large deflections by an iterative
-procedure, and (3) analyzing a wing that is initially slightly cambered
-and warped with either or both of the aforementioned effects present .
-formulas are given for calculating the input matrix terms as are the
-matrix equations and supporting theoretical discussion .  an example
-illustrates the nature and magnitude of the effects being examined .
+non linear analysi heat camber wing matrix forc method variou extens matrix forc method complex structur analysi present illustr object expand rang handl problem like encount advanc vehicl wing design method cover detail determin chang flexibl occur thermal stress present also larg stress must caus buckl includ non linear effect larg deflect iter procedur analyz wing initi slightli camber warp either aforement effect present formula given calcul input matrix term matrix equat support theoret discuss exampl illustr natur magnitud effect examin

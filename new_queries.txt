@@ -1,0 +1,10 @@
+investig made wave system creat static pressur distribut liquid surfac
+anyon investig effect shock gener vortic heat transfer blunt bodi
+heat transfer blunt bodi absenc vortic
+gener effect flow field reynold number small
+find calcul procedur applic incompress laminar boundari layer flow problem good accuraci reason comput time
+paper applic problem calcul procedur laminar incompress flow arbitrari pressur gradient
+anyon investig shear buckl stiffen plate
+paper shear buckl unstiffen rectangular plate shear
+practic close realiti assumpt flow hyperson shock tube use nitrogen non viscou thermodynam equilibrium
+design factor use control lift drag ratio mach number

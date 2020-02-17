@@ -1,14 +1,1 @@
-
-bending of a square plate with two adjacent edges free
-and the others clamped or simply supported .
-
-  the title problems were solved for the two cases ..  (1) uniform
-transverse loading, (2) a concentrated force at the free corner .  a
-function is chosen to exactly satisfy the biharmonic equation
-while the boundary conditions are enforced at a number of points
-plied at discrete points around the boundary for each of the four
-problems and the resulting 35 simultaneous equations were solved
-on an ibm 704 .  tables listing the values of deflection and bending
-moments are presented .  this paper provides useful information
-on the solution of these problems which are intractable by analytical
-methods .
+bend squar plate two adjac edg free clamp simpli support titl problem solv two case uniform transvers load concentr forc free corner function chosen exactli satisfi biharmon equat boundari condit enforc number point pli discret point around boundari four problem result simultan equat solv ibm tabl list valu deflect bend moment present paper provid use inform solut problem intract analyt method

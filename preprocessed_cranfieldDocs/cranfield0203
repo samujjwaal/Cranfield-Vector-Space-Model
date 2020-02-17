@@ -1,11 +1,1 @@
-
-calculated velocity distributions and force derivatives
-for a series of high-speed aerofoils .
-
-  the polygon method of woods is used to
-calculate the velocity distribution over a number of twodimensional
-aerofoils at low incidence, subcritical flows only
-being considered .  lift slopes and aerodynamic centres
-at zero lift are also calculated .
-  some comparisons with experimental results are made, and
-these show good agreement at zero incidence .
+calcul veloc distribut forc deriv seri high speed aerofoil polygon method wood use calcul veloc distribut number twodimension aerofoil low incid subcrit flow consid lift slope aerodynam centr zero lift also calcul comparison experiment result made show good agreement zero incid

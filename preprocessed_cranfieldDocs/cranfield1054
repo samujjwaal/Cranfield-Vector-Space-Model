@@ -1,16 +1,1 @@
-
-iterative solutions for the non-linear bending of circular
-plates .
-
-  the authors study non-linear von karman equations
-for bending of a thin circular plate under uniform normal
-pressure .  discussion is mainly concerned with plates
-clamped at the edges and with zero radial displacement,
-but analysis is valid for other edge conditions .  solution is
-by an iterative procedure whose convergence properties
-are studied by means of integral equations .  method is
-then applied to finite difference formulation of the differential
-equations in order to obtain numerical solutions .
-numerical results are compared with previous work by
-other authors and the advantages of the present method
-are indicated .
+iter solut non linear bend circular plate author studi non linear von karman equat bend thin circular plate uniform normal pressur discuss mainli concern plate clamp edg zero radial displac analysi valid edg condit solut iter procedur whose converg properti studi mean integr equat method appli finit differ formul differenti equat order obtain numer solut numer result compar previou work author advantag present method indic

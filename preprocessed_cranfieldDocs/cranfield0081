@@ -1,16 +1,1 @@
-
-compressible laminar flow and heat transfer about a
-rotating isothermal disk .
-
-  the flow and heat transfer about a rotating isothermal disk are reexamined
-to include the effects of compressibility and property variations
-.  if viscous dissipation is neglected,
-the compressible problem is
-correlated to the incompressible problem by assuming linear variations
-of viscosity and thermal conductivity with temperature .  certain inaccuracies
-in several previous incompressible solutions are noted and
-corrected herein .  the effect of compressibility appears as a
-distortion of the normal coordinate and normal velocity component and as
-a multiplicative factor in the heat-transfer coefficient, the nusselt
-number, and in the expressions for the skin-friction components and
-torque required to rotate the disk .
+compress laminar flow heat transfer rotat isotherm disk flow heat transfer rotat isotherm disk reexamin includ effect compress properti variat viscou dissip neglect compress problem correl incompress problem assum linear variat viscos thermal conduct temperatur certain inaccuraci sever previou incompress solut note correct herein effect compress appear distort normal coordin normal veloc compon multipl factor heat transfer coeffici nusselt number express skin friction compon torqu requir rotat disk

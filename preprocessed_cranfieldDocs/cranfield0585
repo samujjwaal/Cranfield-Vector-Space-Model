@@ -1,17 +1,1 @@
-
-nonlinear heat transfer problem .
-
-  a study has been made of the time-dependent heat
-conduction in a semi-infinite medium subject to a
-boundary condition which can involve the temperature
-in a nonlinear manner .  a formulation for the
-determination of the surface temperature, which is often
-of greatest physical interest, leads to a nonlinear
-volterra integral equation .  a simple iterative solution
-method, with an accuracy suitable for many practical
-purposes is presented .  as an example, the problem
-of the time-dependent surface temperature of a body
-receiving heat according to the stefan-boltzmann law
-is treated .  the analysis is also applicable to physical
-adsorption or chemisorption processes which occur at
-the boundary .
+nonlinear heat transfer problem studi made time depend heat conduct semi infinit medium subject boundari condit involv temperatur nonlinear manner formul determin surfac temperatur often greatest physic interest lead nonlinear volterra integr equat simpl iter solut method accuraci suitabl mani practic purpos present exampl problem time depend surfac temperatur bodi receiv heat accord stefan boltzmann law treat analysi also applic physic adsorpt chemisorpt process occur boundari

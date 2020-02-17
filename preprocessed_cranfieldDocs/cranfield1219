@@ -1,17 +1,1 @@
-
-determination of lift or drag programs to minimize
-re-entry heating .
-
-  a study of single-pass re-entry from escape speed and from
-circular satellite speed is made to determine the lift program for a
-hypersonic glider and the drag-modulation program for a nonlifting
-vehicle that minimize the heating of the vehicles within
-acceleration or range constraints .  a new method of numerical
-solution is used, similar to kelley's /method of gradients,/ that
-permits rapid convergence to the optimum lift program starting
-with an original good estimate .  this method avoids the twopoint
-boundary-value problem of the calculus-of-variations
-formulation, and is applicable to any optimum-programing
-problem .  an acceleration-tolerance limit is introduced which
-describes the human pilot's capability to withstand acceleration
-more accurately than a simple acceleration limit .
+determin lift drag program minim entri heat studi singl pass entri escap speed circular satellit speed made determin lift program hyperson glider drag modul program nonlift vehicl minim heat vehicl within acceler rang constraint new method numer solut use similar kelley method gradient permit rapid converg optimum lift program start origin good estim method avoid twopoint boundari valu problem calculu variat formul applic optimum program problem acceler toler limit introduc describ human pilot capabl withstand acceler accur simpl acceler limit

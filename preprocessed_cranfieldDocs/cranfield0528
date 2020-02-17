@@ -1,15 +1,1 @@
-
-first-order slip effects on the laminar boundary layer over a slender
-body of revolution with zero pressure gradient .
-
-in reference 1, the analysis given by probstein and elliott for the
-zero-pressure-gradient, constant-wall-temperature, compressible,
-laminar boundary layer with transverse curvature was extended to firstorder
-slip flow .  this extension was based on a double asymptotic
-expansion in a transverse-curvature parameter and a slip parameter .
-the expansion in ref. 1, however, was carried out with the parameter
-held constant .  for and a constant wall temperature, is constant and
-e varies with x due to the dependence of the local body radius on x .
-thus, for arbitrary body shapes, e will not be constant .  in the
-present note, the analysis of ref. 1 is re-examined taking into account
-the variation of e .
+first order slip effect laminar boundari layer slender bodi revolut zero pressur gradient refer analysi given probstein elliott zero pressur gradient constant wall temperatur compress laminar boundari layer transvers curvatur extend firstord slip flow extens base doubl asymptot expans transvers curvatur paramet slip paramet expans ref howev carri paramet held constant constant wall temperatur constant e vari x due depend local bodi radiu x thu arbitrari bodi shape e constant present note analysi ref examin take account variat e

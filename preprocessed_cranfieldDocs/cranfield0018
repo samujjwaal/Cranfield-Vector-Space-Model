@@ -1,14 +1,1 @@
-
-the flow field in the diffuser of a radial compressor .
-
-this note discusses the two-dimensional diffuser flow field
-in a radial compressor outside the impeller wheel .  it is
-assumed that the diffuser has guide vanes arranged in a circular
-row at a radius .  the impeller wheel has the radius (see
-fig. 1) .  the flow in the diffuser starts at the circle with the
-radius .  the velocity components, and in the r and
-directions of the velocity vector on this circle are prescribed
-together with the thermal state of the gas .  the flow so prescribed
-on the radius will, if no disturbances are present (i.e., no
-boundary conditions in the flow other than zero velocity at infinity
-are to be fulfilled), develop in a spiral flow .
+flow field diffus radial compressor note discuss two dimension diffus flow field radial compressor outsid impel wheel assum diffus guid vane arrang circular row radiu impel wheel radiu see fig flow diffus start circl radiu veloc compon r direct veloc vector circl prescrib togeth thermal state ga flow prescrib radiu disturb present e boundari condit flow zero veloc infin fulfil develop spiral flow

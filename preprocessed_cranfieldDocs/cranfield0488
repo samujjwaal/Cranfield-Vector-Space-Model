@@ -1,17 +1,1 @@
-
-a reaction-rate parameter for gasdynamics of a chemically
-reacting gas mixture .
-
-  presented note proposes a linearized reaction rate parameter
-which is applicable to any reacting gas mixture provided all the
-pertinent reactions and their rate constants are known at the thermodynamic
-conditions under consideration .  linearizing is
-achieved by expanding equation of rate of chemical reaction in a
-taylor series and neglecting higher-order terms .  author announces
-that tables of linearized reaction rate parameters for dissociated
-and slightly ionized air are now in preparation at the
-space sciences laboratory, general electric co., msvo .
-  comparison of preliminary results with exact calculations published
-by hall, i. g., et.al., /inviscid hypersonic air-flows with
-coupled non-equilibrium processes/ (ias paper 62-67, 30th annual
-meeting, new york, jan. 1962) indicates good agreement .
+reaction rate paramet gasdynam chemic react ga mixtur present note propos linear reaction rate paramet applic react ga mixtur provid pertin reaction rate constant known thermodynam condit consider linear achiev expand equat rate chemic reaction taylor seri neglect higher order term author announc tabl linear reaction rate paramet dissoci slightli ioniz air prepar space scienc laboratori gener electr co msvo comparison preliminari result exact calcul publish hall g et al inviscid hyperson air flow coupl non equilibrium process ia paper th annual meet new york jan indic good agreement

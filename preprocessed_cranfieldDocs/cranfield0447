@@ -1,17 +1,1 @@
-
-motion of thin bodies in a highly rarefied plasma .
-
-  magnetic effects are considered negligible,
-and the velocity of the body is in a range between the
-electron and positive ion thermal speeds .
-the self-consistent field approach is used in which the
-electron distribution is assumed to be maxwellian,
-while the positive ion distribution function is given
-by the /collision-free/ boltzmann equation .
-it is assumed that the ion reflection at the body surface
-is specular, and the body is sufficiently thin so
-that the ion distribution function is a small perturbation
-of a maxwellian distribution .  the solution for
-the simple case of a dielectric body with a given surface
-charge, as well as some general properties to
-be expected for a conducting body are given .
+motion thin bodi highli rarefi plasma magnet effect consid neglig veloc bodi rang electron posit ion thermal speed self consist field approach use electron distribut assum maxwellian posit ion distribut function given collis free boltzmann equat assum ion reflect bodi surfac specular bodi suffici thin ion distribut function small perturb maxwellian distribut solut simpl case dielectr bodi given surfac charg well gener properti expect conduct bodi given

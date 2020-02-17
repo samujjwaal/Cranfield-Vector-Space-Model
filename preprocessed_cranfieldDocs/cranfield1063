@@ -1,17 +1,1 @@
-
-on obtaining solutions to the navier-stokes equations
-with high speed digital computers .
-
-  the purpose of this paper is
-to show how to obtain steady
-state solutions to the navier-stokes
-equations on a high-speed digital
-computer .  first the relative merits
-of various finite difference
-formulae are discussed .  thereafter
-the main part of the paper is
-concerned with the methods used to
-solve the finite difference
-equations and an investigation is made
-of all the simpler iterative
-methods .
+obtain solut navier stoke equat high speed digit comput purpos paper show obtain steadi state solut navier stoke equat high speed digit comput first rel merit variou finit differ formula discuss thereaft main part paper concern method use solv finit differ equat investig made simpler iter method

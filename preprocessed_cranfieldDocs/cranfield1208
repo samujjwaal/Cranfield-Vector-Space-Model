@@ -1,14 +1,1 @@
-
-a linearized analysis of the forces exerted on a rigid
-wing by a shock wave .
-
-  solutions are obtained in closed form for the pressures exerted
-on a rigid half plane by an incident, plane acoustic shock wave .
-the angle of incidence of the wave front is arbitrary and the half
-plane is considered to be traveling at constant velocity, subsonic
-of supersonic with respect to the acoustic medium .  a closedform
-solution is obtained also for a rigid wedge which is motionless
-with respect to the acoustic medium .  the analysis is carried
-out by transforming the wave equation to laplace's equation
-by the busemann conical transformation and then applying conformal
-mapping .
+linear analysi forc exert rigid wing shock wave solut obtain close form pressur exert rigid half plane incid plane acoust shock wave angl incid wave front arbitrari half plane consid travel constant veloc subson superson respect acoust medium closedform solut obtain also rigid wedg motionless respect acoust medium analysi carri transform wave equat laplac equat busemann conic transform appli conform map

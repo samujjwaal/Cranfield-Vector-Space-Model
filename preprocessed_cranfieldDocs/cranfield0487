@@ -1,15 +1,1 @@
-
-theory for supersonic two-dimensional, laminar, base-type
-flows using the crocco-lees mixing concepts .
-
-  a separated flow field, in which the incoming boundary layer
-is undisturbed up to the separation point, is defined as a /basetype/
-flow .  examples are the flows over a blunt base and over
-a backward-facing step .  the crocco-lees theory is applied to
-the supersonic, two-dimensional, laminar, base-type flows defined
-above .  the separated flow is divided into a mixing region
-and a recompression (or reattachment) region .  calculations of
-base pressure show its dependence on the mach number and on
-two reynolds-number-dependent variables, and .
-  it is shown that existing base-pressure data can be explained
-by these results .
+theori superson two dimension laminar base type flow use crocco lee mix concept separ flow field incom boundari layer undisturb separ point defin basetyp flow exampl flow blunt base backward face step crocco lee theori appli superson two dimension laminar base type flow defin separ flow divid mix region recompress reattach region calcul base pressur show depend mach number two reynold number depend variabl shown exist base pressur data explain result

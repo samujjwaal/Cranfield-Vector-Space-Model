@@ -1,14 +1,1 @@
-
-analysis of stresses in the elements of shell structure .
-
-the love-meissner analysis for thin shells has previously been applied
-to cones of uniform wall thickness, and solutions for the stress
-resultants were given in terms of kelvin's functions . since tabulation
-of these functions for large arguments is not practical, considerable
-computation was still required .  in the present paper, the authors
-define special functions which eliminate the necessity of evaluating
-kelvin/s functions and which may be used with simple algebraic and
-trigonometric functions to compute the boundary forces and displacements
-for cones for various loading conditions .  these special functions also
-make clear the magnitude of errors which result from geckeler/s and
-other approximate solutions .
+analysi stress element shell structur love meissner analysi thin shell previous appli cone uniform wall thick solut stress result given term kelvin function sinc tabul function larg argument practic consider comput still requir present paper author defin special function elimin necess evalu kelvin function may use simpl algebra trigonometr function comput boundari forc displac cone variou load condit special function also make clear magnitud error result geckel approxim solut

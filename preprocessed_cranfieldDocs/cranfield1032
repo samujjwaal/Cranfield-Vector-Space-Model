@@ -1,13 +1,1 @@
-
-on the conservativeness of various distributed force systems .
-
-the necessity of determining the conservativeness of force systems in
-instability problems is discussed in reference 1 .  it is shown that,
-whereas kinetic methods are generally applicable for the determination
-of instability loads, the statical methods usually employed are valid
-only for conservative and nongyroscopic systems .  small changes in
-the character of the loading could make an otherwise conservative
-system nonconservative and cause a large change in the magnitude of the
-buckling load .  the buckling load of the cantilever column example
-in reference 1 is, for tangential end loading, eight times that for
-conservative, constant directional loading .
+conserv variou distribut forc system necess determin conserv forc system instabl problem discuss refer shown wherea kinet method gener applic determin instabl load static method usual employ valid conserv nongyroscop system small chang charact load could make otherwis conserv system nonconserv caus larg chang magnitud buckl load buckl load cantilev column exampl refer tangenti end load eight time conserv constant direct load

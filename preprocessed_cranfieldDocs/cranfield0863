@@ -1,13 +1,1 @@
-
-loads and deformations of buckled rectangular plates .
-
-  the nonlinear large deflection equations of von karman for plates
-are converted into a set of linear equations by expanding the displacements
-into a power series in terms of an arbitrary parameter .  the
-post-buckling behavior of simply supported rectangular plates subjected
-to longitudinal compression and to a uniform temperature rise is
-investigated in detail by solving the first few of the equations .
-  experimental data are presented for the compression problem .  comparisons
-are made for total shortening and local strains and deflections
-which indicate good agreement between experimental and theoretical
-results .
+load deform buckl rectangular plate nonlinear larg deflect equat von karman plate convert set linear equat expand displac power seri term arbitrari paramet post buckl behavior simpli support rectangular plate subject longitudin compress uniform temperatur rise investig detail solv first equat experiment data present compress problem comparison made total shorten local strain deflect indic good agreement experiment theoret result

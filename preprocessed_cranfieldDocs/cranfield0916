@@ -1,18 +1,1 @@
-
-the flow around oscillating low aspect ratio wings at transonic
-speeds .
-
-when certain conditions are fulfilled for thickness ratio, aspect ratio,
- and reduced frequency for a three-dimensional wing, it can be shown
-that the partial differential equation for the non-steady perturbation
-potential can be reduced to a comparatively simple linear equation .
-the solution is then obtained by applying a fourier transformation in
-the free-stream direction and then using an iterative process developed
-by adams and sears for steady flow . the method gives solutions valid
-for low combinations of aspect ratio and reduced frequency .
-the method is applied to a delta wing oscillating in some selected rigid
- and elastic modes . from the results it can be seen that the special
-non-steady forces in the potential equation, which are neglected in
-slender-body theory, are very important . stability derivatives can also
- be obtained by the method and it is seen that the damping in pitch may
-be negative at m 1 for delta wings of too high aspect ratio .
+flow around oscil low aspect ratio wing transon speed certain condit fulfil thick ratio aspect ratio reduc frequenc three dimension wing shown partial differenti equat non steadi perturb potenti reduc compar simpl linear equat solut obtain appli fourier transform free stream direct use iter process develop adam sear steadi flow method give solut valid low combin aspect ratio reduc frequenc method appli delta wing oscil select rigid elast mode result seen special non steadi forc potenti equat neglect slender bodi theori import stabil deriv also obtain method seen damp pitch may neg delta wing high aspect ratio

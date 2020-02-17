@@ -1,18 +1,1 @@
-
-the unsteady lift of a wing of finite aspect ratio .
-
-unsteady-lift functions for wings of finite aspect ratio have been calculated
-by correcting the aerodynamic inertia and the angle of attack of
- the infinite wing . the calculations are based on the operational
-method .
-the starting lift of the finite wing is found to be only slightly less
-than that of the infinite wing,. whereas the final lift may be considerably
-less . the theory indicates that the initial distribution of
-lift is similar to the final distribution .
-curves showing the variation of lift after a sudden unit change in angle
- of attack, during penetration of a sharpedge gust, and during a continuous
-oscillation are given . operational equivalents of these
-functions have been devised to facilitate the calculation of lift under
-various conditions of motion . as an application of these formulas, the
-vertical acceleration of a loaded wing caused by penetrating a gust has
-been calculated .
+unsteadi lift wing finit aspect ratio unsteadi lift function wing finit aspect ratio calcul correct aerodynam inertia angl attack infinit wing calcul base oper method start lift finit wing found slightli less infinit wing wherea final lift may consider less theori indic initi distribut lift similar final distribut curv show variat lift sudden unit chang angl attack penetr sharpedg gust continu oscil given oper equival function devis facilit calcul lift variou condit motion applic formula vertic acceler load wing caus penetr gust calcul

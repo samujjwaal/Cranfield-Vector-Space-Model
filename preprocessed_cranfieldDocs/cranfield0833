@@ -1,11 +1,1 @@
-
-a simple method of matric structural analysis, part
-iv, non-linear problems .
-
-  the method presented in the previous parts is employed to
-solve various kinds of nonlinear problems, such as problems concerning
-large deflections or buckling, or thermal creep, or inelastic
-stress redistribution involving thermal gradients, or design
-.  the procedure used in each case is one of direct iteration-i.
-e., after one assumes a starting point all subsequent cycles are
-self-generating .  simple numerical examples are worked out .
+simpl method matric structur analysi part iv non linear problem method present previou part employ solv variou kind nonlinear problem problem concern larg deflect buckl thermal creep inelast stress redistribut involv thermal gradient design procedur use case one direct iter e one assum start point subsequ cycl self gener simpl numer exampl work
