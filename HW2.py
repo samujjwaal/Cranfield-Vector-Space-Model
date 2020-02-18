@@ -21,13 +21,16 @@
 
 # + init_cell=true
 # Importing dependancy libraries
+from collections import Counter
 from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 import os
 import pandas as pd
+import numpy as np
 import re
+import math as m
 from nltk.corpus import stopwords
 stop_list = stopwords.words('english')
 
@@ -40,6 +43,8 @@ out_path = 'preprocessed_cranfieldDocs'
 # Declaring variables for query files
 query = 'queries.txt'
 preproc_query = 'new_queries.txt'
+
+relevance = 'relevance.txt'
 
 # Checking if the preprocessed docs folder exists already
 if not os.path.isdir(out_path):
@@ -148,7 +153,162 @@ for line in text:
 # filepath = out_path + '/' + filenames[0]
 # file = open(filepath)
 # data = file.read()
-# data
+# # len(data.split())
+# # data.split()
+# count = {}
+# for w in data.split():
+#     if w in count:
+#         count[w] += 1
+#     else:
+#         count[w] = 1
+        
+# # print(count)
+# len(count)
+# +
+all_docs = []
+
+for fname in filenames:
+    outfilepath = out_path + '/' + fname
+    with open(outfilepath) as file:
+        fileData = file.read()
+        all_docs.append(fileData)
 # -
+
+no_of_docs = len(all_docs)
+no_of_docs
+
+# #### Calculating df values
+
+# +
+DF = {}
+
+for i in range(no_of_docs):
+    tokens = all_docs[i].split()
+    for w in tokens:
+        try:
+            DF[w].add(i)
+        except:
+            DF[w] = {i}
+
+for i in DF:
+    DF[i] = len(DF[i])
+# -
+
+# print(DF)
+
+
+vocab_size = len(DF)
+vocab_size
+
+vocab = [term for term in DF]
+# print(vocab)
+
+# #### Calculating tf-idf values
+
+# +
+doc = 0
+
+tf_idf = {}
+
+for i in range(no_of_docs):
+    
+    tokens = all_docs[i].split()
+    
+    counter = Counter(tokens)
+    words_count = len(tokens)
+    
+    for token in np.unique(tokens):
+        tf = counter[token]/words_count
+        df = DF[token] if token in vocab else 0
+        idf = np.log((no_of_docs+1)/(df+1))
+        
+        tf_idf[doc, token] = tf*idf
+
+    doc += 1
+
+# +
+# tf_idf
+#len(tf_idf)
+# -
+
+# #### Vectorizing tf-idf
+
+D = np.zeros((no_of_docs, vocab_size))
+for i in tf_idf:
+    try:
+        ind = vocab.index(i[1])
+        D[i[0]][ind] = tf_idf[i]
+    except:
+        pass
+
+# D
+len(D)
+
+
+def gen_vector(tokens):
+
+    Q = np.zeros((len(vocab)))
+    
+    counter = Counter(tokens)
+    words_count = len(tokens)
+
+    query_weights = {}
+    
+    for token in np.unique(tokens):
+        
+        tf = counter[token]/words_count
+        df = DF[token] if token in vocab else 0
+        idf = m.log((no_of_docs+1)/(df+1))
+
+        try:
+            ind = vocab.index(token)
+            Q[ind] = tf*idf
+        except:
+            pass
+    return Q
+
+
+def cosine_sim(a, b):
+    cos_sim = np.dot(a, b)/(np.linalg.norm(a)*np.linalg.norm(b))
+    return cos_sim
+
+
+# +
+def cosine_similarity(k, query):
+#     print("Cosine Similarity")
+    tokens = query.split()
+    
+#     print("\nQuery:", query)
+#     print("")
+#     print(tokens)
+    
+    d_cosines = []
+    
+    query_vector = gen_vector(tokens)
+    
+    for d in D:
+        d_cosines.append(cosine_sim(query_vector, d))
+        
+    out = np.array(d_cosines).argsort()[-k:][::-1]
+    
+    
+#     print("")
+    
+#     print(out)
+    return out
+
+# -
+
+    cosine_similarity(10,'investig made wave system creat static pressur distribut liquid surfac')
+
+query_file = open(preproc_query, 'r')
+queries = query_file.readlines()
+# type(queries)/
+# queries[1].split()
+# print(queries[1].split())
+
+n = 10
+for query in queries:
+    print(cosine_similarity(n, query))
 
 
