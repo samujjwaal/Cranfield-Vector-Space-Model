@@ -303,12 +303,58 @@ def cosine_similarity(k, query):
 
 query_file = open(preproc_query, 'r')
 queries = query_file.readlines()
-# type(queries)/
+# type(queries)
 # queries[1].split()
 # print(queries[1].split())
 
-n = 10
+no_of_top = 10
+cos_sims = []
 for query in queries:
-    print(cosine_similarity(n, query))
+    cs = cosine_similarity(no_of_top, query)
+#     print(cs)
+    cos_sims.append(cs)
+# type(cos_sims)
+# cos_sims
+cos_sims[0]
+
+colnames=['query', 'relevance'] 
+rel = pd.read_csv(relevance, delim_whitespace=True, names=colnames, header=None)
+# rel.head(10)
+# rel['query']
+
+rel_list = []
+query_rel = []
+for i in range(1,11):
+    rel_list = rel[rel['query']==i]['relevance'].to_list()
+    query_rel.append(rel_list)
+# print(query_rel)    
+query_rel[1]
+
+recall = []
+precision = []
+
+
+def intersection(lst1, lst2): 
+    lst3 = [value for value in lst1 if value in lst2] 
+    return len(lst3) 
+
+
+for i in range(len(queries)):
+    a = intersection(cos_sims[i].tolist(), query_rel[i])
+    b = len(query_rel[i])
+    r = a / b
+    recall.append(r)
+recall
+
+np.mean(recall)
+
+for i in range(len(queries)):
+    a = intersection(cos_sims[i].tolist(), query_rel[i])
+    b = no_of_top
+    p = a / b
+    precision.append(p)
+precision
+
+np.mean(precision)
 
 
