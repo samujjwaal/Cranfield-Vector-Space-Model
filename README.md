@@ -25,4 +25,4 @@ The tasks in the [assignment](Tasks.pdf "Assignment description") included:
 3. Determine the average precision and recall for the queries, using top 10, 50, 100 and 500 documents in the ranking.
 
 
-Check out the [Jupyter Notebook](citeseer.ipynb "CiteSeer Collection Text Processing") to see the python implementation of the tasks.
+Check out the [Jupyter Notebook](cranfield.ipynb "Cranfield Corpus Vector Space Model") to see the python implementation of the tasks.
